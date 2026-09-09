@@ -1,4 +1,4 @@
-# MozXR Unreal Starter Project
+# MozXR Unreal IPC Plugin
 
 This is a minimal Plugin to provide the functionality of the [Unity-PipeLibrary](https://github.com/MozXROrga/Unity-PipeLibrary) in Unreal Engine projects.
 
